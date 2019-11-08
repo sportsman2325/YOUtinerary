@@ -1,0 +1,42 @@
+Updated Implementation Plan
+
+Week 6:
+Derrick leads, delegates, smaller tasks to others to learn React/JavaScript
+Week 7:
+Earliest Priority:
+Event Scheduler
+Logical layout for web application
+Design UI
+View trip in map overview (Assigned)
+Ability to add/remove events
+Search up places using Google Maps API (Assigned)
+Display basic info about events
+See locations of events(Assigned)
+Set up work environments on all our machines
+Week 8:
+Want to make sure that we work on all these tasks in parallel
+Visualizer
+View multiple events in hourly format
+Will be assigned: TBD
+Calendar
+Google Calendar
+View day to day
+Will be assigned: TBD
+
+Week 9:
+Transportation
+A functional way to search for routes
+Include transportation search under each event
+Create way to switch from calendar view to transportation view
+Include user preferences as to modes of transportation, routes taken, etc.
+Keeping working on/Finishing Visualizer and Calendar
+Week 10:
+Pick high priority events based on time constraints:
+Share access to calendar with others
+Give permission to view
+Invite others to edit
+Include restaurant info as part of event info
+Allow easy access to routing between events and restaurants
+Embedding a functional mapping system
+Option: Google Map Query API (cautious about query use)
+Option: Include Yelp API to get access to ratings of restaurants
